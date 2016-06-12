@@ -1,0 +1,32 @@
+
+Name of Quantlet: SFE_BoxJen
+
+Published in: 	  Statistics of Financial Markets II
+
+Description:      'SFE_BoxJen code introduces the Box-Jenkins Method. First, it
+                  simulates an ARMA process and tests it for a unit root with  
+                  Dickey Fuller Test. Next, the ACF and PACF of the series are   
+                  visually inspected and a function for identifying the best  
+                  ARMA model for a given time series according to the AIC   
+                  criterion is indroduced. Finally, the best model according to 
+                  the above function is being diagnosed.'
+
+
+Keywords:         Box Jenkins, time series, AR, MA, ARMA
+
+
+See also:         -
+ 
+
+Author:           Sophie Stadlinger, Karolina Stanczak
+
+Submitted:        2016/06/17
+
+
+Datafile:         -
+
+Input:            -
+
+Output:           'Order of the best ARMA model according to the AIC criterion for
+                  a given time series. Time series plot, ACF and PACF plots of a 
+                  time series and its residuals.'
